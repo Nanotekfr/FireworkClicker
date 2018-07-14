@@ -1,0 +1,22 @@
+body {
+    background-color: #1b253f;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+.fireworks{
+    height: 100vh;
+    width: 100%;
+}
+h1{
+    position: fixed;
+    text-align: center;
+    font-family: "Amatic SC";
+    width: 100%;
+    color: #ffffff;
+    left: 0;
+    top: 0;
+}
+.Copy{
+    font-size: 15px
+}
